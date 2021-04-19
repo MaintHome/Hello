@@ -1,0 +1,11 @@
+Ask your security team to review and check for indicators of compromise. This will help you scope the incident and understand how to apply your resources for remediation. Some good resources include:
+
+FireEye Threat Research
+
+FireEye Mandiant SunBurst Countermeasures (GitHub)
+
+CISA Active Exploitation of SolarWinds Software Activity Report
+
+Internet Storm Center Solarigate Report
+
+DHS Emergency Directive 21-01
